@@ -92,7 +92,7 @@ Ouvre le fichier **`MiniProjet_Youtube.pbix`** pour visualiser l’analyse.
 
 ## 📩 **Contact & Contributions**
 👨‍💻 **Développeur :** AtomCrtr  
-📧 **Email :** ton_email@gmail.com  
+📧 **Email :** feildelemeline@hotmail.fr / cartieremeline@outlook.fr
 💡 **Suggestions & Contributions :** Issues et Pull Requests sont bienvenues ! 🎉  
 
 ---
